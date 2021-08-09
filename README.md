@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Sinhee%Park&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=slice)
 ### Hi there 👋
 
 <!--
