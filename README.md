@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If you want to contact me ...
-please mail to this email:
+<p>If you want to contact me ...</p>
+<p>please mail to this email: </p>
 
