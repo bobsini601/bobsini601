@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p>If you want to contact me ...</p>
-<p>please mail to this email: </p>
+<p>please mail to this email: psh7130@naver.com</p>
 
