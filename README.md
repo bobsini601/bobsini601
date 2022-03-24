@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <p>If you want to contact me ...</p>
-<p>please mail to this email: psh7130@naver.com</p>
+<p>please mail to this email: <a href="mailto:psh7130@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psh7130@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 <p>my blog : <a href="https://www.notion.so/Study_Home-4253de38e8ea43c1a4000bae01a9e187"><img src="https://img.shields.io/badge/BLOG-FFCA28?style=flat-square&logo=blog&logoColor=white"/></a></p>
+</a> 
+
