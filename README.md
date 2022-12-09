@@ -20,18 +20,25 @@ Here are some ideas to get you started:
 <p>please mail to this email: <a href="mailto:psh7130@naver.com">
 <img src="https://img.shields.io/badge/psh7130@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:psh7130@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
 
+<hr>
+<h3>📚 Here is My Study Log..</h3>
 
-<h3> Here is My Study Log..</h3>
-<p>Study Note : <a href="https://www.notion.so/STUDY_HOME-f8e887d33aac4863a83e469c519f6ac5"><img src="https://img.shields.io/badge/Notion-FFCA28?style=flat-square&logo=Notion&logoColor=white"/></a></p>
+<p>Study Note : <a href="https://www.notion.so/STUDY_HOME-f8e887d33aac4863a83e469c519f6ac5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
 <p>Blog : <a href="https://velog.io/@bobsini601">
     <img 
         src="http://img.shields.io/badge/Velog-222222?style=flat&logo=Velog&link=https://velog.io/@bobsini601"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<h3> Here is My Life Log.. </h3>
-<spanp><a href="https://www.instagram.com/belief_joy/">
+<hr>
+<h3>👩 Here is My Life Log.. </h3>
+<span><a href="https://www.instagram.com/belief_joy/">
         <img 
-        src="http://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/belief_joy/"
+        src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/belief_joy/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a></span>
+<span><a href="https://blog.naver.com/sini_land">
+        <img 
+        src="http://img.shields.io/badge/NaverBlog-03C75A?style=flat&logo=Naver&logoColor=white&link=https://www.instagram.com/belief_joy/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a></span>
