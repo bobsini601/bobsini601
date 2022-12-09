@@ -17,13 +17,21 @@ Here are some ideas to get you started:
 -->
 
 <p>If you want to contact me ...</p>
-<p>please mail to this email: <a href="mailto:psh7130@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psh7130@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
-<p>study note : <a href="https://www.notion.so/STUDY_HOME-f8e887d33aac4863a83e469c519f6ac5"><img src="https://img.shields.io/badge/BLOG-FFCA28?style=flat-square&logo=volg&logoColor=white"/></a></p>
-</a> 
-<p>blog : <a href="https://velog.io/@bobsini601">
+<p>please mail to this email: <a href="mailto:psh7130@naver.com">
+<img src="https://img.shields.io/badge/psh7130@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:psh7130@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
+
+
+<h3> Here is My Study Log..</h3>
+<p>Study Note : <a href="https://www.notion.so/STUDY_HOME-f8e887d33aac4863a83e469c519f6ac5"><img src="https://img.shields.io/badge/Notion-FFCA28?style=flat-square&logo=Notion&logoColor=white"/></a></p>
+<p>Blog : <a href="https://velog.io/@bobsini601">
     <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@bobsini601"
+        src="http://img.shields.io/badge/Velog-222222?style=flat&logo=Velog&link=https://velog.io/@bobsini601"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-</a> 
+
+<h3> Here is My Life Log.. </h3>
+<spanp><a href="https://www.instagram.com/belief_joy/">
+        <img 
+        src="http://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/belief_joy/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a></span>
